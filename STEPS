@@ -1,0 +1,6 @@
+This bomber sends emails that belong to google email address but is under development for other messaging.
+
+First you have to create an email on gmail.com:
+
+Then they will have to go to this link: https://myaccount.google.com/lesssecureapps?pli=1 and activate less secure applications.
+The rest is done on the program
